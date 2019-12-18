@@ -1,11 +1,11 @@
 Package: testextra
 Type: Package
 Title: Extract Test Blocks
-Version: 0.1.0
+Version: 0.1.0.1
 Authors@R: c( 
     person("Andrew", "Redd", role = c("aut", "cre")
           , email = "andrew.redd@hsc.utah.edu"
-          , comment = c(ORCID = "https://orcid.org/000-0002-6149-2438")
+          , comment = c(ORCID = "https://orcid.org/0000-0002-6149-2438")
           ), 
     person("R Documentation Task Force", role=c("cph")
           , comment = c(url = "https://rdoctaskforce.github.io/")
@@ -31,9 +31,9 @@ Collate: 'extract_tests.R' 'catch_condition.R' 'inheritance.R'
 URL: https://github.com/RDocTaskForce/testextra
 BugReports: https://github.com/RDocTaskForce/testextra/issues
 NeedsCompilation: no
-Packaged: 2019-01-11 19:40:58 UTC; u0092104
-Author: Andrew Redd [aut, cre] (<https://orcid.org/000-0002-6149-2438>),
+Packaged: 2019-12-18 09:12:49 UTC; hornik
+Author: Andrew Redd [aut, cre] (<https://orcid.org/0000-0002-6149-2438>),
   R Documentation Task Force [cph] (https://rdoctaskforce.github.io/),
   R Consortium [fnd] (https://www.r-consortium.org)
 Repository: CRAN
-Date/Publication: 2019-01-18 22:30:03 UTC
+Date/Publication: 2019-12-18 09:15:29 UTC
